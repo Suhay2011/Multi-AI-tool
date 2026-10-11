@@ -1,4 +1,2 @@
 streamlit
 OpenAI
-huggingface_hub
-requests
